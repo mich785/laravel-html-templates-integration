@@ -1,0 +1,1 @@
+# laravel-html-templates-integration
