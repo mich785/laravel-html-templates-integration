@@ -665,7 +665,7 @@
     
 
     <!-- Footer Start -->
-    @yield('footer')
+    @yield('footer');
     <!-- Footer End -->
 
 
