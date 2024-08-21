@@ -15,7 +15,7 @@ use App\Http\Controllers\TemplateController;
 */
 
 // Route::get('/', function () {
-//     return view('welcome');
+//     return view('Frontend.home');
 // });
 
 // Route::get('/', 'TemplateController@index');
